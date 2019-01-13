@@ -5,4 +5,15 @@
     <string name="todo">TODO</string>
     <string name="button">Button</string>
     <string name="textview">TextView</string>
+    <string name="purchase">Purchase</string>
+    <string name="very_white">Very White</string>
+    <string name="_120_on_hand">120 on Hand</string>
+    <string name="stocks_left">Stocks left</string>
+    <string name="price">Price</string>
+    <string name="_189_99">$189.99</string>
+    <string name="sale_until_october_15">Sale until october 15</string>
+    <string name="limited_offer_only">Limited Offer only</string>
+    <string name="_7_10_days_delivery">7 - 10 days Delivery</string>
+    <string name="in">IN</string>
+    <string name="out">OUT</string>
 </resources>
